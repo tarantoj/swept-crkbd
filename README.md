@@ -1,20 +1,20 @@
-# Swept crkbd
+# Swept Corne
 
 Pictures pending.
 
-## What is the swept crkbd?
+## What is the swept corne?
 
-The Swept Crkbd is a mix between the [Sweep](https://github.com/davidphilipbarr/Sweep) (which is itself a version of the [Ferris](https://github.com/pierrechevalier83/ferris)) and the [Corne](https://github.com/foostan/crkbd).
+The Swept Corne is a mix between the [Sweep](https://github.com/davidphilipbarr/Sweep) (which is itself a version of the [Ferris](https://github.com/pierrechevalier83/ferris)) and the [Corne](https://github.com/foostan/crkbd).
 
 ## Motivation
 
-I made the jump from a 60% qwerty keyboard to colemak mod-dh on a sweep. After getting up to speed both with the new layout and form factor I realized that to reach peak productivity I'd need a few more keys and. The corne was the obvious choice but the non-choc spacing,
+I made the jump from a 60% qwerty keyboard to colemak mod-dh on a sweep. After getting up to speed both with the new layout and form factor I realized that to reach peak productivity I'd need a few more keys and the corne was the obvious choice but the non-choc spacing,
 lack support for a power switch and the less aggresive staggering made me miss the sweep, so I decided to take the sweep as a starting point and add the extra keys by keeping it wireless friendly. The [Corne-is Zen](https://lowprokb.ca/products/corne-ish-zen) has similar
-goals but is not always in stock and is closed source.
+goals but up to this point has only been available through group buys and is closed source.
 
 ## What are the different types?
 
-There's currently only one version of the swept with choc spacing as well as an on-off switch and no TRRS connector, this is to have the reset switch in a more comfortable position.,
+There's currently only one version of the swept with choc spacing as well as an on-off switch and no TRRS connector, this is to have the reset switch in a more comfortable position.
 
 ## Components list
 
