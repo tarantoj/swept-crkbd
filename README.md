@@ -79,7 +79,7 @@ First version, still untested.
 
 Differences from the original Sweep:
 - Added an extra pinky column.
-- Added an extra column key.
+- Added an extra thumb key.
 - Converted from direct to switch connections to matrix with diodes keeping compatibility with the corne.
 
 ## Who made this?
