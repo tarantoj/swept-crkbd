@@ -31,7 +31,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x00010f0_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -5892,7 +5892,6 @@
   )
 
   (gr_rect (start 23.1826 47.0558) (end 29.9136 49.9768) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 23573313-9d57-496f-956d-cc111cf3df78))
-  (gr_rect (start 266.8016 46.9773) (end 273.4056 49.8983) (layer "B.SilkS") (width 0.12) (fill none) (tstamp 6a988ff7-874a-4743-ad13-d22b45527f34))
   (gr_line (start 255.944001 44.417999) (end 255.944045 27.093419) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805f5))
   (gr_arc (start 270.637 108.2294) (mid 269.370152 108.985251) (end 267.901405 108.84742) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805f8))
   (gr_arc (start 257.937 46.348917) (mid 256.551393 45.785075) (end 255.944001 44.417999) (layer "Edge.Cuts") (width 0.05) (tstamp 00000000-0000-0000-0000-0000619805fb))
@@ -5972,10 +5971,10 @@
   (gr_line (start 111.7092 36.8046) (end 111.7092 25.908) (layer "Edge.Cuts") (width 0.05) (tstamp f5aff468-76c7-4d70-a4b2-112a9be60ad6))
   (gr_line (start 221.3102 21.1836) (end 221.3102 19.4564) (layer "Edge.Cuts") (width 0.05) (tstamp f78a57b0-b5a9-465c-b767-77059f6f752e))
   (gr_arc (start 77.078666 95.695027) (mid 111.199358 90.120635) (end 145.7198 88.2142) (layer "Edge.Cuts") (width 0.05) (tstamp fa0167fd-4124-4087-8c8d-46ef9fe29193))
-  (gr_text "Face down" (at 264.1346 63.8302 90) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061981060)
+  (gr_text "Face down" (at 269.5702 65.913 90) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061981060)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "Face down" (at 29.3834 63.1444 90) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061983f32)
+  (gr_text "Face down" (at 25.3746 62.1792 90) (layer "F.SilkS") (tstamp 00000000-0000-0000-0000-000061983f32)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
 
