@@ -74,6 +74,7 @@ Build video coming soon.
 ## Firmware
 
 Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware/).
+
 [My personal configuration](https://github.com/AYM1607/corne-zmk-config). Tested on the v0.1 version.
 
 ## Changelog
