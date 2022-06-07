@@ -79,13 +79,9 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ### v0.1.1 (Recommended version)
 
-Still untested.
-
 - Deleted extra holes from the switch footprint which might be causing mnufacturers to charge extra.
 
 ### v0.1
-
-First version, still untested.
 
 Differences from the original Sweep:
 - Added an extra pinky column.
