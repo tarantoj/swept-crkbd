@@ -1,5 +1,9 @@
 # Swept Corne
 
+![front of a built swept](gallery/IMG_7887.JPG)
+
+![back of a built swept](gallery/IMG_7886.JPG)
+
 ![swept v0.1 pcb](gallery/sweptv0.1.png)
 
 ## What is the swept corne?
