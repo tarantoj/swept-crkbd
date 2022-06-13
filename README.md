@@ -71,6 +71,10 @@ Find the different versions on the releases page.
 
 Build video coming soon.
 
+## What if I want one but I don't want to build it?
+
+Visit [my Etsy shop](https://www.etsy.com/listing/1235225784/custom-swept-corne-split-wireless) to get one built by me.
+
 ## Firmware
 
 Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware/).
@@ -81,7 +85,7 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ### v0.1.1 (Recommended version)
 
-- Deleted extra holes from the switch footprint which might be causing mnufacturers to charge extra.
+- Deleted extra holes from the switch footprint which might be causing manufacturers to charge extra.
 
 ### v0.1
 
