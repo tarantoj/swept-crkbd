@@ -83,7 +83,11 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
-### v0.1.1 (Recommended version)
+### v0.1.2 (Recommended version)
+
+- Updated silk screen to battery polarity clearer.
+
+### v0.1.1
 
 - Deleted extra holes from the switch footprint which might be causing manufacturers to charge extra.
 
