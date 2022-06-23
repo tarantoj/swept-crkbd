@@ -83,6 +83,11 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
+The following versioning schema will be followed as closely as possible.
+- Major versions: Changes to the form factor.
+- Minor versions: Changes that affect the build processs, e.g. Position or orientation of components.
+- Patch versions: No change to the build process.
+
 ### v0.2.0 (Still untested)
 
 - Introduced the Swept Corne 3x5
@@ -90,7 +95,7 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ### v0.1.2 (Recommended version)
 
-- Updated silk screen to battery polarity clearer.
+- Updated silk screen to make the battery polarity easier to read.
 
 ### v0.1.1
 
