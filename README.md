@@ -83,6 +83,11 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
+### v0.2.0 (Still untested)
+
+- Introduced the Swept Corne 3x5
+- All the diodes now face the same way on both boards.
+
 ### v0.1.2 (Recommended version)
 
 - Updated silk screen to battery polarity clearer.
