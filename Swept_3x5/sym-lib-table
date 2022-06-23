@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "34key-rescue")(type "Legacy")(uri "${KIPRJMOD}/34key-rescue.lib")(options "")(descr "")(disabled))
+  (lib (name "sweepv2-rescue")(type "Legacy")(uri "${KIPRJMOD}/Swept_3x5-rescue.lib")(options "")(descr ""))
+)
