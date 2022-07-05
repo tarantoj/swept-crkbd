@@ -45,10 +45,10 @@ To order the PCB the following settings are recommended:
 
 |Detail|Value|
 |---|---|
-|Gerber file|`Swept_vX.zip`|
+|Gerber file|`Swept_Y_vX.zip` where Y stands for variation and X stands for version|
 |Base material|FR-4|
 |Layers|2|
-|Dimension|261.1 mm * 90.7 mm|
+|Dimension| Depends on the board, this is picked up automatically by JLCPCB|
 |Different design|2|
 |Delivery format|Panel by customer|
 |PCB thickness|1.6mm|
@@ -83,17 +83,17 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
-The following versioning schema will be followed as closely as possible.
-- Major versions: Changes to the form factor.
-- Minor versions: Changes that affect the build processs, e.g. Position or orientation of components.
-- Patch versions: No change to the build process.
+### v1.0.0 (Still untested)
 
-### v0.2.0 (Still untested)
+- Boards now have optional support for Kailh choc hot-swap sockets.
+- The form factor is not exactly the same to accomodate the sockets.
+
+### v0.2.0 (Recommended version)
 
 - Introduced the Swept Corne 3x5
 - All the diodes now face the same way on both boards.
 
-### v0.1.2 (Recommended version)
+### v0.1.2 
 
 - Updated silk screen to make the battery polarity easier to read.
 
@@ -107,6 +107,11 @@ Differences from the original Sweep:
 - Added an extra pinky column.
 - Added an extra thumb key.
 - Converted from direct to switch connections to matrix with diodes keeping compatibility with the corne.
+
+The following versioning schema will be followed as closely as possible.
+- Major versions: Changes to the form factor.
+- Minor versions: Changes that affect the build processs, e.g. Position or orientation of components.
+- Patch versions: No change to the build process.
 
 ## Who made this?
 
