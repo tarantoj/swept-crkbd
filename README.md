@@ -83,12 +83,16 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
-### v1.0.0 (Still untested)
+### v1.1.0 (Still untested)
+
+- Added support for the [nice!view](https://nicekeyboards.com/nice-view) sharp memory displays. You don't need it to build a keyboard, it's completely optional.
+
+### v1.0.0 (Recommended version)
 
 - Boards now have optional support for Kailh choc hot-swap sockets.
 - The form factor is not exactly the same to accomodate the sockets.
 
-### v0.2.0 (Recommended version)
+### v0.2.0
 
 - Introduced the Swept Corne 3x5
 - All the diodes now face the same way on both boards.
