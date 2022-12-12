@@ -2737,7 +2737,7 @@
     (uuid 117e1457-dcde-46f8-812a-e795046b85d7)
     (property "Reference" "J1" (id 0) (at 218.44 100.33 90))
     (property "Value" "ScreenL" (id 1) (at 218.44 102.87 90))
-    (property "Footprint" "" (id 2) (at 218.44 106.68 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 218.44 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 218.44 106.68 0)
@@ -3542,7 +3542,7 @@
     (uuid c13aa899-8898-4a96-864c-f5e8809eb140)
     (property "Reference" "J2" (id 0) (at 246.38 100.33 90))
     (property "Value" "ScreenR" (id 1) (at 246.38 102.87 90))
-    (property "Footprint" "" (id 2) (at 246.38 106.68 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 246.38 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 246.38 106.68 0)
@@ -3934,10 +3934,10 @@
       (reference "Dr20") (unit 1) (value "D") (footprint "kbd:D3_SMD_v2")
     )
     (path "/117e1457-dcde-46f8-812a-e795046b85d7"
-      (reference "J1") (unit 1) (value "ScreenL") (footprint "")
+      (reference "J1") (unit 1) (value "ScreenL") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/c13aa899-8898-4a96-864c-f5e8809eb140"
-      (reference "J2") (unit 1) (value "ScreenR") (footprint "")
+      (reference "J2") (unit 1) (value "ScreenR") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-0000604ea4f3"
       (reference "RSW1") (unit 1) (value "SW_Push") (footprint "kbd:ResetSW")
