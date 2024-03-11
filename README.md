@@ -1,4 +1,5 @@
 # Swept Corne
+## This board designed is now stable and has reached maintenance mode.
 
 ![front of a built swept](gallery/IMG_7887.JPG)
 
@@ -83,11 +84,11 @@ Firmware for zmk and nice!nano is called ["Corne"](https://zmk.dev/docs/hardware
 
 ## Changelog
 
-### v1.1.1 (Still untested)
+### v1.1.1 (Recommended version)
 
 - Added extra mountig holes for ease of case design.
 
-### v1.1.0 (Recommended version)
+### v1.1.0 
 
 - Added support for the [nice!view](https://nicekeyboards.com/nice-view) sharp memory displays. You don't need it to build a keyboard, it's completely optional.
 
